@@ -1,2 +1,2 @@
 # CS50
-Introduction to CS50x and explanation of the Problem Set.
+Answers to some problem sets from Week 1 to Week 5.
