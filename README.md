@@ -9,4 +9,4 @@ Given my limited skills and time back then, I only finished the "less comfortabl
 
 Now, I have compiled all the completed work into this repository, which can serve as a reference for others who are also studying this course.
 
-For explanations of the content and a compilation of resources therein, please refer to Zhihu:[大学生必看的C语言](https://zhuanlan.zhihu.com/column/c_1931363093381907125)
+For explanations of the content and a compilation of resources therein, please refer to Zhihu:[C语言](https://zhuanlan.zhihu.com/column/c_1931363093381907125)
